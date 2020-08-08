@@ -14,4 +14,4 @@ spec:
       name: api-image
   params:
   - name: deployment-name
-    value: vote-api
+    value: vote-api   
